@@ -1,0 +1,40 @@
+body{
+    font-family: 'Lato', sans-serif;
+    display: flex;
+}
+.container{
+    height: 220px;
+    width: 400px;
+    border: 1px solid black ;
+    border-radius: 5px;
+    margin: 10px;
+    padding-left: 15px;
+    background-image: url(photo.jfif);
+    background-size: cover;
+}
+.ex1{
+    padding-top: 10px;
+    font-size: x-large;
+    color: white;
+}
+.ex-1{
+    color: white;
+}
+.assests{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 220px;
+    width: 400px;
+    margin: 10px;
+    padding-left: 15px;
+    background-image: url(photo2.jfif);
+    background-size: cover;
+}
+.ex2{
+    font-size: x-large;
+    padding-top: 10px;
+    color:white;
+}
+.ex-2{
+    color: white;
+}
